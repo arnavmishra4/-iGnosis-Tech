@@ -53,13 +53,5 @@ This report provides insights into **bestselling products, most profitable custo
 - **If premium customers dominate sales** → They are **brand-conscious & less price-sensitive**.  
 - **If budget customers buy frequently** → They are **discount-driven & respond well to promotions**.  
 
----
-
-## 📌 **Marketing Recommendations**
-✔ **Prioritize stock & promotions for the bestselling products.**  
-✔ **Segment marketing strategies based on customer behavior.**  
-✔ **Offer bulk discounts & loyalty rewards to high-spending segments.**  
-✔ **Introduce exclusive & premium product lines for high-value customers.**  
-✔ **Leverage digital promotions & influencer marketing for younger demographics.**  
 
 ---
